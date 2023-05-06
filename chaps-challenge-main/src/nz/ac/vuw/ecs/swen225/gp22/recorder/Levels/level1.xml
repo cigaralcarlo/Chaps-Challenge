@@ -1,0 +1,181 @@
+<Level level="1" x="15" y="14">
+	<tile class="wall"><location xpos="2" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="3" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="5" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="6" ypos="0"></location></tile>
+	<tile class="free"><location xpos="7" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="8" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="9" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="11" ypos="0"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="0"></location></tile>
+
+	<tile class="wall"><location xpos="2" ypos="1"></location></tile>
+	<tile class="free"><location xpos="3" ypos="1"></location></tile>
+	<tile class="free"><location xpos="4" ypos="1"></location></tile>
+	<tile class="free"><location xpos="5" ypos="1"></location></tile>
+	<tile class="wall"><location xpos="6" ypos="1"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="1"></location></tile>
+	<tile class="wall"><location xpos="8" ypos="1"></location></tile>
+	<tile class="free"><location xpos="9" ypos="1"></location></tile>
+	<tile class="free"><location xpos="10" ypos="1"></location></tile>
+	<tile class="free"><location xpos="11" ypos="1"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="1"></location></tile>
+
+	<tile class="wall"><location xpos="2" ypos="2"></location></tile>
+	<tile class="free"><location xpos="3" ypos="2"></location></tile>
+	<tile class="treasure"><location xpos="4" ypos="2"></location></tile>
+	<tile class="free"><location xpos="5" ypos="2"></location></tile>
+	<tile class="wall"><location xpos="6" ypos="2"></location></tile>
+	<tile class="exitDoor"><location xpos="7" ypos="2"></location></tile>
+	<tile class="wall"><location xpos="8" ypos="2"></location></tile>
+	<tile class="free"><location xpos="9" ypos="2"></location></tile>
+	<tile class="treasure"><location xpos="10" ypos="2"></location></tile>
+	<tile class="free"><location xpos="11" ypos="2"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="2"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="1" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="2" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="3" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="3"></location></tile>
+	<tile class="door" colour="green"><location xpos="5" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="6" ypos="3"></location></tile>
+	<tile class="exitLock"><location xpos="7" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="8" ypos="3"></location></tile>
+	<tile class="door" colour="green"><location xpos="9" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="11" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="13" ypos="3"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="3"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="4"></location></tile>
+	<tile class="free"><location xpos="1" ypos="4"></location></tile>
+	<tile class="key" colour="yellow"><location xpos="2" ypos="4"></location></tile>
+	<tile class="free"><location xpos="3" ypos="4"></location></tile>
+	<tile class="door" colour="blue"><location xpos="4" ypos="4"></location></tile>
+	<tile class="free"><location xpos="5" ypos="4"></location></tile>
+	<tile class="free"><location xpos="6" ypos="4"></location></tile>
+	<tile class="free"><location xpos="7" ypos="4"></location></tile>
+	<tile class="free"><location xpos="8" ypos="4"></location></tile>
+	<tile class="free"><location xpos="9" ypos="4"></location></tile>
+	<tile class="door" colour="red"><location xpos="10" ypos="4"></location></tile>
+	<tile class="free"><location xpos="11" ypos="4"></location></tile>
+	<tile class="key" colour="yellow"><location xpos="12" ypos="4"></location></tile>
+	<tile class="free"><location xpos="13" ypos="4"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="4"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="5"></location></tile>
+	<tile class="free"><location xpos="1" ypos="5"></location></tile>
+	<tile class="treasure"><location xpos="2" ypos="5"></location></tile>
+	<tile class="free"><location xpos="3" ypos="5"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="5"></location></tile>
+	<tile class="key" colour="blue"><location xpos="5" ypos="5"></location></tile>
+	<tile class="free"><location xpos="6" ypos="5"></location></tile>
+	<tile class="info"><location xpos="7" ypos="5"></location><info>Keys can unlock a door of the same colour.</info></tile>
+	<tile class="free"><location xpos="8" ypos="5"></location></tile>
+	<tile class="key" colour="red"><location xpos="9" ypos="5"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="5"></location></tile>
+	<tile class="free"><location xpos="11" ypos="5"></location></tile>
+	<tile class="treasure"><location xpos="12" ypos="5"></location></tile>
+	<tile class="free"><location xpos="13" ypos="5"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="5"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="1" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="2" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="3" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="6"></location></tile>
+	<tile class="treasure"><location xpos="5" ypos="6"></location></tile>
+	<tile class="free"><location xpos="6" ypos="6"></location></tile>
+	<character name="chap"><location xpos="7" ypos="6"></location></character>
+	<tile class="free"><location xpos="8" ypos="6"></location></tile>
+	<tile class="treasure"><location xpos="9" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="11" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="13" ypos="6"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="6"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="7"></location></tile>
+	<tile class="free"><location xpos="1" ypos="7"></location></tile>
+	<tile class="treasure"><location xpos="2" ypos="7"></location></tile>
+	<tile class="free"><location xpos="3" ypos="7"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="7"></location></tile>
+	<tile class="key" colour="blue"><location xpos="5" ypos="7"></location></tile>
+	<tile class="free"><location xpos="6" ypos="7"></location></tile>
+	<tile class="free"><location xpos="7" ypos="7"></location></tile>
+	<tile class="free"><location xpos="8" ypos="7"></location></tile>
+	<tile class="key" colour="red"><location xpos="9" ypos="7"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="7"></location></tile>
+	<tile class="free"><location xpos="11" ypos="7"></location></tile>
+	<tile class="treasure"><location xpos="12" ypos="7"></location></tile>
+	<tile class="free"><location xpos="13" ypos="7"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="7"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="8"></location></tile>
+	<tile class="free"><location xpos="1" ypos="8"></location></tile>
+	<tile class="free"><location xpos="2" ypos="8"></location></tile>
+	<tile class="free"><location xpos="3" ypos="8"></location></tile>
+	<tile class="door" colour="red"><location xpos="4" ypos="8"></location></tile>
+	<tile class="free"><location xpos="5" ypos="8"></location></tile>
+	<tile class="free"><location xpos="6" ypos="8"></location></tile>
+	<tile class="treasure"><location xpos="7" ypos="8"></location></tile>
+	<tile class="free"><location xpos="8" ypos="8"></location></tile>
+	<tile class="free"><location xpos="9" ypos="8"></location></tile>
+	<tile class="door" colour="blue"><location xpos="10" ypos="8"></location></tile>
+	<tile class="free"><location xpos="11" ypos="8"></location></tile>
+	<tile class="free"><location xpos="12" ypos="8"></location></tile>
+	<tile class="free"><location xpos="13" ypos="8"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="8"></location></tile>
+
+	<tile class="wall"><location xpos="0" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="1" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="2" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="3" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="4" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="5" ypos="9"></location></tile>
+	<tile class="door" colour="yellow"><location xpos="6" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="9"></location></tile>
+	<tile class="door" colour="yellow"><location xpos="8" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="9" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="11" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="12" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="13" ypos="9"></location></tile>
+	<tile class="wall"><location xpos="14" ypos="9"></location></tile>
+
+	<tile class="wall"><location xpos="4" ypos="10"></location></tile>
+	<tile class="free"><location xpos="5" ypos="10"></location></tile>
+	<tile class="free"><location xpos="6" ypos="10"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="10"></location></tile>
+	<tile class="free"><location xpos="8" ypos="10"></location></tile>
+	<tile class="free"><location xpos="9" ypos="10"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="10"></location></tile>
+
+	<tile class="wall"><location xpos="4" ypos="11"></location></tile>
+	<tile class="free"><location xpos="5" ypos="11"></location></tile>
+	<tile class="treasure"><location xpos="6" ypos="11"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="11"></location></tile>
+	<tile class="treasure"><location xpos="8" ypos="11"></location></tile>
+	<tile class="free"><location xpos="9" ypos="11"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="11"></location></tile>
+
+	<tile class="wall"><location xpos="4" ypos="12"></location></tile>
+	<tile class="free"><location xpos="5" ypos="12"></location></tile>
+	<tile class="key" colour="green"><location xpos="6" ypos="12"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="12"></location></tile>
+	<tile class="key" colour="green"><location xpos="8" ypos="12"></location></tile>
+	<tile class="free"><location xpos="9" ypos="12"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="12"></location></tile>
+
+	<tile class="wall"><location xpos="4" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="5" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="6" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="7" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="8" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="9" ypos="13"></location></tile>
+	<tile class="wall"><location xpos="10" ypos="13"></location></tile>
+</Level>

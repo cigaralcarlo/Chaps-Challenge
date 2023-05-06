@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Level">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="tile" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="location">
+                <xs:complexType>
+                  <xs:attribute name="xpos" type="xs:integer" use="required">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:enumeration value="0" />
+                        <xs:enumeration value="1" />
+                        <xs:enumeration value="2" />
+                        <xs:enumeration value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:attribute>
+                  <xs:attribute name="ypos" type="xs:integer" use="required">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:enumeration value="0" />
+                        <xs:enumeration value="1" />
+                        <xs:enumeration value="2" />
+                        <xs:enumeration value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="class" use="required">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="door" />
+                  <xs:enumeration value="free" />
+                  <xs:enumeration value="key" />
+                  <xs:enumeration value="wall" />
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="colour" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="character">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="location">
+                <xs:complexType>
+                  <xs:attribute name="xpos" type="xs:integer" use="required" />
+                  <xs:attribute name="ypos" type="xs:integer" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="class" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="level" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
